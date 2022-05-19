@@ -35,7 +35,7 @@
         </div>
 
         <router-link
-          :to="'/commanders/' + currentCommander.id"
+          :to="'/commander/' + currentCommander.id"
           class="btn btn-info"
         >
           Editar</router-link
